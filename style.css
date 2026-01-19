@@ -1,0 +1,350 @@
+body {
+    background-image: url(images/mountain.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+
+
+h1 {
+    color: red;
+
+    text-shadow: 0px 0px 5px greenyellow, 0px -5px 5px yellowgreen; 
+    
+    text-align: center;
+    margin-top: 50px;
+    
+    font-family: "Nosifer", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+
+    #p1 {
+        color: greenyellow;
+
+        font-family: "Gloria Hallelujah", cursive;
+        font-weight: 400;
+        font-style: normal;
+
+        text-align: center;
+    }
+    
+    #p2 {
+        color: greenyellow;
+
+        font-family: "Gloria Hallelujah", cursive;
+        font-weight: 400;
+        font-style: normal;
+
+        text-align: center;
+    }
+
+    #p3 {
+        color: greenyellow;
+
+        font-family: "Gloria Hallelujah", cursive;
+        font-weight: 400;
+        font-style: normal;
+
+        text-align: center;
+    }
+
+
+
+    #h2-1 {
+        color: red;
+
+        text-align: center;
+
+        margin-top: 50px;
+
+        font-family: "Mystery Quest", system-ui;
+        font-weight: 400;
+        font-style: normal;
+    }
+
+    #h2-2 {
+        color: red; 
+
+        text-align: center;
+
+        margin-top: 50px;
+
+        font-weight: bolder;
+        font-family: "Mystery Quest", system-ui;
+        font-weight: 400;
+        font-style: normal;
+    }
+
+    #h2-3 {
+        color: red;
+
+        margin-top: 50px;
+
+        text-align: center;
+
+        font-family: "Mystery Quest", system-ui;
+        font-weight: 400;
+        font-style: normal;
+    }
+
+    #h2-4 {
+        color: red;
+
+        text-align: center;
+
+        margin-top: 50px;
+
+        font-family: "Mystery Quest", system-ui;
+        font-weight: 400;
+        font-style: normal;
+    }
+
+    #h2-5 {
+        color: red;
+
+        text-align: center;
+
+        margin-top: 50px;
+
+        font-family: "Mystery Quest", system-ui;
+        font-weight: 400;
+        font-style: normal;
+    }
+
+    #h2-6 {
+        color: red;
+
+        text-align: center;
+
+        margin-top: 50px;
+
+        font-family: "Mystery Quest", system-ui;
+        font-weight: 400;
+        font-style: normal;
+    }
+
+    #h2-7 {
+        color: red;
+
+        text-align: center;
+
+        margin-top: 50px;
+
+        font-family: "Mystery Quest", system-ui;
+        font-weight: 400;
+        font-style: normal;
+    }
+
+    #h2-8 {
+        color: red;
+
+        text-align: center;
+
+        margin-top: 50px;
+
+        font-family: "Mystery Quest", system-ui;
+        font-weight: 400;
+        font-style: normal;
+    }
+
+    
+        .fa-youtube {
+        color: red;
+        font-size: 80px;
+        transition: 0.3s ease;
+        }
+
+        .fa-youtube:hover {
+         text-shadow: 0 0 10px white, 0 0 20px white;
+
+         transform: rotate(360deg);
+
+        }
+
+        .fa-youtube:active {
+            color: white;
+        }
+
+
+
+        .YTicon {
+            text-align: center;
+            
+        }
+
+        
+
+        .fa-map {
+            color: hotpink;
+            animation: pulse 1.5s infinite;
+
+        }
+
+        .fa-map:hover {
+            text-shadow: 0 0 10px greenyellow, 0 0 20px greenyellow;
+        }
+
+        .fa-map:active {
+            color: white;
+        }
+
+        @keyframes pulse {
+            0% { transform:scale(1); }
+            50% { transform:scale(1.2); }
+            100% { transform:scale(1); }
+        }
+
+        .map {
+            text-align: center;
+        }
+
+        
+
+    .li1 {
+        color: greenyellow;
+        
+        text-align: center;
+
+        font-weight: 400;
+        font-family: "Eater", serif;
+        font-weight: 400;
+        font-style: normal;
+
+        list-style-position:inside;        
+    }
+
+    .li2 {
+        color: greenyellow;
+
+        text-align: center;
+
+        font-weight: 400;
+        font-family: "Eater", serif;
+        font-weight: 400;
+        font-style: normal;
+
+        list-style-position:inside;
+    }
+
+    #img1 {
+        display: flex;
+
+        justify-content: center;
+
+        align-items: center;
+    }
+
+    #video1 {
+        display: flex;
+
+        justify-content: center;
+
+        align-items: center;
+    
+    }
+    
+    #audio1 {
+        display: flex;
+
+        justify-content: center;
+
+        align-items: center;
+    }
+
+    #table1 {
+        color:black;
+
+        font-weight: bold;
+
+        background: linear-gradient(to right, hotpink, greenyellow);
+        background-repeat: no-repeat;
+
+        border: 5px black;
+
+        padding: 0%;
+
+        margin-left: auto;
+        margin-right: auto;
+
+
+    }
+
+    #shift {
+        color: greenyellow;
+
+        text-align: center;
+    }
+
+    #time {
+        color: hotpink;
+
+        text-align: center;
+    }
+
+    .days {
+        color: greenyellow;
+
+        text-align: center;
+    }
+
+    .hours {
+        color: hotpink;
+
+        text-align: center;
+    }
+
+    #contact1 {
+        color: black;
+
+        text-align: center;
+
+        font-size: larger;
+    }
+
+    #email1 {
+        color: black;
+
+        text-align: center;
+
+        font-size: larger;
+    }
+
+    #reset1 {
+        text-align: center;
+    }
+
+     #submit1 {
+        text-align: center;
+    }
+
+    #button1 {
+        background: linear-gradient(to top, orange, red);
+
+        color:black;
+
+        border-color: black;
+        border-radius: 50px;
+        border-width: 5px;
+
+        width: 150px;
+        height: 50px;
+
+        font-size: xx-large;
+
+        cursor: pointer;
+
+        display: block;
+
+        margin: 0 auto;
+    }
+
+    iframe {
+        display: block;
+
+        margin: 0 auto;
+    }

@@ -1,0 +1,1 @@
+I made my own web page using a little of everything i learnd from YouTube videos, articles and AI.
